@@ -1,0 +1,38 @@
+﻿<Window x:Class="ContactApp.ContactDetailsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ContactApp"
+        mc:Ignorable="d"
+        Title="UpdateOrDelete" Height="300" Width="300">
+    <Grid>
+
+        <StackPanel Margin="10">
+            <Label Content="Name"></Label>
+            <TextBox x:Name="nametextbox" Margin="0,0,0,5"/>
+
+            <Label Content="Email"></Label>
+            <TextBox x:Name="emailtextbox" Margin="0,0,0,5"/>
+
+            <Label Content="Phone"></Label>
+            <TextBox x:Name="phonetextbox" Margin="0,0,0,5"/>
+            <Button x:Name="update_Button" Content="Update"
+                    Margin="0 5 0 5"
+                    Foreground="White"
+                    Background="DodgerBlue"
+                    Click="update_Button_Click"
+                    
+                    ></Button>
+            <Button x:Name="delete_Button" Content="Delete" 
+                    Margin="0 5 0 5" Foreground="White"
+                    Background="red"
+                    Click="delete_Button_Click"
+                    ></Button>
+
+
+
+        </StackPanel>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NcqtBi6dSJnzWoEvU8NtJRuUJ8SXeY21atkvlQZ/MOsdX8zCI8Bv4MCYwSDNfJPzlIDl+EceZE4z+iPwZtE4xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alwaysSUHAS\\source\\repos\\ContactApp\\ContactApp\\ContactApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alwaysSUHAS\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\alwaysSUHAS\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\alwaysSUHAS\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\alwaysSUHAS\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\alwaysSUHAS\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\alwaysSUHAS\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
